@@ -1,15 +1,26 @@
-# Welcome to StickerSmashApp app 👋
+# StickerSmash Mobile App 👋
 
-This is my first mobile app project.
+This is a simple and fun mobile app built with React Native and Expo, which allows users to add emoji stickers to a photo and save the final image.
 
-## How to use
+---
 
-1. Install the .apk file
-2. Open app
-3. Grant access to local files
-4. Choose image from local files or the default image
-5. Click on Plus circle button to add a sticker
-6. You can scale the stiker by double tap and pan across the chosen image
-7. Click save to download image with the added sticker
+### Features
 
-### Thanks for using the app
+- **Photo Selection:** Choose an image from your device's photo library or use the app's default placeholder image.
+- **Sticker Management:** Add multiple emoji stickers to your photo.
+- **Sticker Controls:** Scale and position stickers by double-tapping and panning.
+- **Image Saving:** Save the final image with the stickers to your device.
+
+---
+
+### Download the App
+
+You can download and install the app directly on your Android device without using the Play Store.
+
+[**Download the StickerSmash.apk file**](https://raw.githubusercontent.com/kaberaSamuel/StickerSmashApp/main/assets/StickerSmashApp.apk)
+
+---
+
+### Acknowledgment
+
+This app was built following the official Expo guide. A big thanks to the Expo team for providing an excellent platform for building mobile applications.
